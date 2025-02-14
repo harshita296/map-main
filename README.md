@@ -50,13 +50,3 @@ Follow these steps to set up the project locally:
 4 . **Run the app Locally**
   ```bash
     npm start
-
----
-
-## 🚀 Usage
-
--Login: Sign in with your Google account to access the application.
--Find Hospitals: Once logged in, you can access the map and view the nearest hospitals based on your location.
--Logout: You can log out at any time to switch accounts.
-
-
